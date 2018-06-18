@@ -1,0 +1,2 @@
+echo "0 4 * * 0 apt=get updat -y >> /var/log/updat_script.log && apt-get upgrade >> /var/logupdate_script.log" >> file
+

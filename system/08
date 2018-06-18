@@ -1,0 +1,4 @@
+ssh-keygen
+/home/user/.ssh/id_rsa
+/home/user/.ssh/id_rsa.pub
+
